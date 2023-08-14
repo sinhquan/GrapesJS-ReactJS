@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+![image](https://github.com/sinhquan/GrapesJS-ReactJS/assets/16862817/e57391e3-261c-49fd-9e1a-eda09652b512)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
